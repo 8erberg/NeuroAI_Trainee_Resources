@@ -6,24 +6,24 @@ Resources accompanying an upcoming publication on the training of early career r
 *Table S1. NeuroAI initiatives and institutes*
 | **Organisation**                                                                                                                          | **Website**                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| UNIQUE (Unifying Neuroscience and AI in Quebec) multi-institutional center                                                                | https://www.unique.quebec/                                          |
+| UNIQUE (Unifying Neuroscience and AI in Quebec) multi-institutional center in Quebec                                                      | https://www.unique.quebec/                                          |
 | AI Institutes Virtual Organization (AIVO) coordinates the 25 AI institutes funded by the USA NSF and USDA-NIFA                            | https://aiinstitutes.org/                                           |
 | ExpandAI: NSF ExpandAI program includes a track for minority serving institutions and AI institutes to propose together new partnerships. | https://aiinstitutes.org/expandai/                                  |
-| ARNI - NSF AI Institute for Artificial and Natural Intelligence (USA)                                                                     | https://arni-institute.org/                                         |
 | OpenBioML (decentralised, collaborative research community to accelerate biology through machine learning and open-science)               | https://openbioml.org/                                              |
 | MedARC (medical AI open initiative)                                                                                                       | https://www.medarc.ai/                                              |
+| ARNI - NSF AI Institute for Artificial and Natural Intelligence (USA)                                                                     | https://arni-institute.org/                                         |
 | Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard University (USA)                                        | https://www.harvard.edu/kempner-institute/                          |
-| Neuro-X institute at EPFL (Switzerland)                                                                                                   | https://neuro-x.epfl.ch/en/                                         |
 | Center for Computational Neuroscience and Artificial Intelligence, University of Oregon (USA)                                             | https://ion.uoregon.edu/neuroai                                     |
 | Cold Spring Harbor Laboratory NeuroAI Center (USA)                                                                                        | https://www.cshl.edu/research/neuroscience/neuroai/                 |
 | MIT Center for Brains, Minds and Machines (USA)                                                                                           | https://cbmm.mit.edu/                                               |
-| Center for Human Nature, Artificial Intelligence, and Neuroscience (CHAIN), Hokkaido University (Japan)                                   | https://www.chain.hokudai.ac.jp/wordpress/?lang=en                  |
 | Princeton NeuroAI within the Princeton Neuroscience Institute (USA)                                                                       | https://pni.princeton.edu/research-areas/neuroai/                   |
 | Cambridge Computational and Biological Learning Lab (UK)                                                                                  | https://www.cbl-cambridge.org/                                      |
 | Cambridge Centre for the Future of Intelligence (UK)                                                                                      | https://http://lcfi.ac.uk/                                          |
 | University College London NeuroAI (UK)                                                                                                    | https://www.ucl.ac.uk/research/domains/neuroscience/ucl-neuroai/    |
-| Norwegian Artificial Intelligence Research Consortium (NORA) NeuroAI Special Interest Group (Norway)                                      | https://www.nora.ai/nora-sig/NeuroAI/                               |
 | University of West London NeuroAI (UK)                                                                                                    | https://www.uwl.ac.uk/research/research-centres-and-groups/neuroai/ |
+| Norwegian Artificial Intelligence Research Consortium (NORA) NeuroAI Special Interest Group (Norway)                                      | https://www.nora.ai/nora-sig/NeuroAI/                               |
+| Neuro-X institute at EPFL (Switzerland)                                                                                                   | https://neuro-x.epfl.ch/en/                                         |
+| Center for Human Nature, Artificial Intelligence, and Neuroscience (CHAIN), Hokkaido University (Japan)                                   | https://www.chain.hokudai.ac.jp/wordpress/?lang=en                  |
 
 
 *Table S2. Neuro-, AI-, and NeuroAI resources for trainees*
