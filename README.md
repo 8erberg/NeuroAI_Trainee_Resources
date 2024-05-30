@@ -44,9 +44,10 @@ Resources accompanying an upcoming publication on the training of early career r
 
 
 
+The survey questions and other information are provided in [Survey Questions](https://github.com/8erberg/NeuroAI_Trainee_Resources/blob/main/NeuroAI_trainees_Survey_overview.pdf)
+
 Analysis of survey responses is provided in Figure 2 of the manuscript. 
-Here we provide further overview of the individual responses.
-![Figure S1: Overview of survey responses](https://github.com/8erberg/NeuroAI_Trainee_Resources/blob/main/Figure_S1_Overview_of_responses.png)
+A further overview of the individual responses is provided in [Figure S1: Overview of survey responses](https://github.com/8erberg/NeuroAI_Trainee_Resources/blob/main/Figure_S1_Overview_of_responses.png)
 
 Data will be provided here upon publication of the manuscript.
 
