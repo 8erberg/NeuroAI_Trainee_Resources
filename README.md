@@ -2,9 +2,6 @@
 
 Resources accompanying an upcoming publication on the training of early career researchers in NeuroAI, prepared by the OpenBioML community. Please feel free to contribute any additional resources by filing an issue with suggestion or contributing content via pull requests.
 
-![Overview of survey responses](https://github.com/8erberg/NeuroAI_Trainee_Resources/blob/main/Figure_S1_Overview_of_responses.png)
-
-
 *Table S1. NeuroAI initiatives and institutes*
 | **Organisation**                                                                                                                          | **Website**                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -44,3 +41,13 @@ Resources accompanying an upcoming publication on the training of early career r
 | THINGS initiative                                        | Global initiative bringing together researchers using the same image database to collect and share behavioral and neuroscience data in object recognition.                           | https://things-initiative.org/                                                      |
 | Allen Institute for Brain Science datasets               | Mouse connectome and transcriptome; human transcriptome.                                                                                                                             | https://alleninstitute.org/division/brain-science/                                  |
 | Neuroscout                                               | A platform for fast and flexible re-analysis of (naturalistic) fMRI studies.                                                                                                         | https://neuroscout.org/                                                             |
+
+
+
+Analysis of survey responses is provided in Figure 2 of the manuscript. 
+Here we provide further overview of the individual responses.
+![Figure S1: Overview of survey responses](https://github.com/8erberg/NeuroAI_Trainee_Resources/blob/main/Figure_S1_Overview_of_responses.png)
+
+Data will be provided here upon publication of the manuscript.
+
+
