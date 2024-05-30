@@ -2,6 +2,8 @@
 
 Resources accompanying an upcoming publication on the training of early career researchers in NeuroAI, prepared by the OpenBioML community. Please feel free to contribute any additional resources by filing an issue with suggestion or contributing content via pull requests.
 
+![Overview of survey responses](https://github.com/8erberg/NeuroAI_Trainee_Resources/blob/main/Figure_S1_Overview_of_responses.png)
+
 
 *Table S1. NeuroAI initiatives and institutes*
 | **Organisation**                                                                                                                          | **Website**                                                        |
