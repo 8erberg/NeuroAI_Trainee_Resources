@@ -1,10 +1,10 @@
-# NeuroAI_Trainee_Resources
+# NeuroAI Trainee Resources
 
 Resources accompanying an upcoming publication on the training of early career researchers in NeuroAI, prepared by the OpenBioML community. Please feel free to contribute any additional resources by filing an issue with suggestion or contributing content via pull requests.
 
 *Table S1. NeuroAI initiatives and institutes*
-| **Organisation**                                                                                                                          | **Website**                                                        |
-|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Organisation**                                                                                                                          | **Website**                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | UNIQUE (Unifying Neuroscience and AI in Quebec) multi-institutional center in Quebec                                                      | https://www.unique.quebec/                                          |
 | AI Institutes Virtual Organization (AIVO) coordinates the 25 AI institutes funded by the USA NSF and USDA-NIFA                            | https://aiinstitutes.org/                                           |
 | ExpandAI: NSF ExpandAI program includes a track for minority serving institutions and AI institutes to propose together new partnerships. | https://aiinstitutes.org/expandai/                                  |
@@ -23,6 +23,12 @@ Resources accompanying an upcoming publication on the training of early career r
 | Norwegian Artificial Intelligence Research Consortium (NORA) NeuroAI Special Interest Group (Norway)                                      | https://www.nora.ai/nora-sig/NeuroAI/                               |
 | Neuro-X institute at EPFL (Switzerland)                                                                                                   | https://neuro-x.epfl.ch/en/                                         |
 | Center for Human Nature, Artificial Intelligence, and Neuroscience (CHAIN), Hokkaido University (Japan)                                   | https://www.chain.hokudai.ac.jp/wordpress/?lang=en                  |
+| Minds, Brains, and Machines initiative at New York University (USA)                                                                       | https://mbm.cds.nyu.edu/                                            |
+| Institute of Science and Technology for Brain-inspired Intelligence (ISTBI), Fudan University (China)                                     | https://istbi.fudan.edu.cn/lnen/About_ISTBI/Introduction.htm        |
+| Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Chinese Academy of Sciences (China)        | http://english.cebsit.cas.cn/                                       |
+| Brain-inspired Cognitive Intelligence Lab, Institute of Automation, Chinese Academy of Sciences (China)                                   | https://braincog.ai/                                                |
+| Tsinghua Laboratory of Brain and Intelligence, Tsinghua University (China)                                                                | https://brain.tsinghua.edu.cn/en/                                   |
+| Guangdong Institute of Intelligence Science and Technology (China)                                                                        | https://www.gdiist.cn/en/about/jianjie                              |
 
 
 *Table S2. Neuro-, AI-, and NeuroAI resources for trainees*
