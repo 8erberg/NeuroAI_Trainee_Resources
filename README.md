@@ -1,6 +1,6 @@
 # NeuroAI Trainee Resources
 
-Resources accompanying an upcoming publication on the training of early career researchers in NeuroAI, prepared by the OpenBioML community. Please feel free to contribute any additional resources by filing an issue with suggestion or contributing content via pull requests.
+Resources accompanying of the Nature Communications publication [Trainees’ perspectives and recommendations for catalyzing the next generation of NeuroAI researchers'](https://www.nature.com/articles/s41467-024-53375-2) on the training of early career researchers in NeuroAI, prepared by the OpenBioML community. Please feel free to contribute any additional resources by filing an issue with suggestion or contributing content via pull requests.
 
 *Table S1. NeuroAI initiatives and institutes*
 | **Organisation**                                                                                                                          | **Website**                                                         |
